@@ -1,5 +1,6 @@
 Hosting complete : https://linkedin-clone-a520d.web.app/ 
 
+naver blog : https://blog.naver.com/wdlight/postwrite?categoryNo=25 ( Korean )
 
 # Getting Started with Create React App and Redux
 
